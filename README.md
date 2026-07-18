@@ -10,3 +10,5 @@
     - Ther are two types of React server components
         - Server Component
         - Client component
+- Private Folder
+- Route Groups
