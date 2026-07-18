@@ -1,0 +1,12 @@
+# Next.js-Journey
+- Create a Next.js App
+    - npx create-next-app@latest hello-world
+- What's Next.js?
+- Why leaan Next.js?
+- File based Routing
+- Catch all segements
+- Optional slag [[...slag]]
+- React Server Components (RSC)
+    - Ther are two types of React server components
+        - Server Component
+        - Client component
