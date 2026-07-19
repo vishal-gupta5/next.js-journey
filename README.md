@@ -14,3 +14,4 @@
 - Route Groups
 - How to create layout.js from scratch
 - How to make Nested layout in Next.js
+- Multiple root layouts
