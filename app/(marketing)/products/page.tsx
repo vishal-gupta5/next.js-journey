@@ -1,13 +1,14 @@
 import Link from "next/link";
 
 import React from "react";
+import Home from "../page";
 
 
 const Products = () => {
   return (
     <div className="flex flex-col justify-center items-center gap-5">
       <div>
-        <h1>Products</h1>
+        <Home/>
       </div>
 
       <ul className="flex justify-center items-center gap-5">

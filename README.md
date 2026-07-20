@@ -21,3 +21,4 @@
         - Dynamic Metadata
 - Title Metadata
 - How to Navigation in Next.js
+- Active Links
