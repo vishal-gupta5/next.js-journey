@@ -6,7 +6,7 @@ export default function Home() {
   const navs = [
     { href: "/about", label: "About" },
     { href: "/contact", label: "Contacts" },
-    { href: "/products", label: "products " },
+    { href: "/products", label: "products" },
   ];
 
   const pathName = usePathname();
