@@ -23,3 +23,6 @@
 - How to Navigation in Next.js
 - Active Links
 - sarchParams
+- Templates
+- Loading(Special file)
+- Error Handling
