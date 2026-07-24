@@ -17,7 +17,7 @@
 - Multiple root layouts
 - Routing MetaData
     - There are two ways to add metadata in Next.js
-        - Static Metadata
+        - Static Metadata 
         - Dynamic Metadata
 - Title Metadata
 - How to Navigation in Next.js
